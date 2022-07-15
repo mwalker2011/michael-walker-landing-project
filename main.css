@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+}
+
+.iphone-one {
+    width: 200px;
+    height: 200px;
+}
+
+.banner {
+    position: relative;
+    width: 90%;
+    margin: 0;
+}
+
+.huno {
+    position: absolute;
+    top: 50%;
+}
